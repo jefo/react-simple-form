@@ -1,0 +1,37 @@
+{
+  "name": "react-simple-form",
+  "version": "1.0.0",
+  "description": "Form component with change handling that you love",
+  "main": "src/index.js",
+  "repository": "https://github.com/jefo/react-simple-form.git",
+  "author": "jefo.main@gmail.com",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.1.2",
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-jest": "^23.6.0",
+    "babel-loader": "^8.0.4",
+    "enzyme": "^3.7.0",
+    "enzyme-adapter-react-16": "^1.6.0",
+    "jest": "^23.6.0",
+    "jest-environment-enzyme": "^7.0.0",
+    "jest-enzyme": "^7.0.0",
+    "react-test-renderer": "^16.6.0",
+    "regenerator-runtime": "^0.12.1",
+    "webpack": "^4.24.0",
+    "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "prop-types": "^15.6.2",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "recompose": "^0.30.0"
+  }
+}
